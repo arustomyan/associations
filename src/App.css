@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+button {
+  display: inline-block;
+  box-shadow: none;
+  background-color: transparent;
+  background: none;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: inherit;
+  -webkit-appearance: none;
+  -moz-appearance:none;
+  border: none;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
